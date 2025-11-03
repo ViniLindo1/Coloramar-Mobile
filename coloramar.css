@@ -672,7 +672,7 @@ a {
 }
 .quadrado4 {
    width: 277px;
-   height: 152px;
+   height: 172px;
    flex-shrink: 0;
    margin-bottom: 30px;
 }
@@ -939,4 +939,5 @@ a {
    margin-inline-end: 50px;
 
 }
+
 
