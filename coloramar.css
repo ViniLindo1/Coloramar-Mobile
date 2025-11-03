@@ -675,6 +675,7 @@ a {
    flex-shrink: 0;
    margin-bottom: 30px;
    padding: 20px;
+   margin-inline-start: 20px;
 }
 .turismo1 {
    width: 346px;
@@ -939,6 +940,7 @@ a {
    margin-inline-end: 50px;
 
 }
+
 
 
 
