@@ -404,7 +404,7 @@ a {
    font-style: normal;
    font-weight: 400;
    line-height: normal;
-   margin-top: -5px;
+   
 }
 .explicacao2 {
    width: 292px;
@@ -417,7 +417,7 @@ a {
    font-style: normal;
    font-weight: 400;
    line-height: normal;
-   margin-top: -3px;
+   
 }
 .explicacao3 {
    width: 259px;
@@ -430,7 +430,6 @@ a {
    font-style: normal;
    font-weight: 400;
    line-height: normal;
-   margin-top: -5px;
    margin-bottom: 100px;
 }
 .explicacao4 {
@@ -940,3 +939,4 @@ a {
    margin-inline-end: 50px;
 
 }
+
