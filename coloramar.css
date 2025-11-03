@@ -668,13 +668,13 @@ a {
    width: 266px;
    height: 254px;
    flex-shrink: 0;
-
 }
 .quadrado4 {
    width: 277px;
-   height: 192px;
+   height: 200px;
    flex-shrink: 0;
    margin-bottom: 30px;
+   padding: 20px;
 }
 .turismo1 {
    width: 346px;
@@ -939,6 +939,7 @@ a {
    margin-inline-end: 50px;
 
 }
+
 
 
 
