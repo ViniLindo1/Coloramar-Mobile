@@ -920,7 +920,7 @@ a {
    flex-direction: row;
    align-content: center;
    justify-content: center;
-   margin-inline-end: 50px;
+   margin-inline-end: 70px;
    margin-top: 20px;
 }
 .aviso {
@@ -935,4 +935,5 @@ a {
    align-content: center;
    justify-content: center;
    margin-inline-end: 50px;
+
 }
