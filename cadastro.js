@@ -8,8 +8,9 @@ function verificador() {
         resultado.textContent = "Preencha o formulário";
     }else{ 
         document.getElementById("butao").addEventListener("click", function() {
-    window.location.href = "login.html"; 
+    window.location.href = "Login.html"; 
     alert(`Cadastro feito com sucesso`)
 });
     }
+
 }
